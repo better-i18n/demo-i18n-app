@@ -1,0 +1,23 @@
+{
+  "app.name": "Demo App",
+  "app.description": "A demo application for testing Better i18n",
+  "nav.home": "Home",
+  "nav.about": "About",
+  "nav.contact": "Contact",
+  "nav.pricing": "Pricing",
+  "nav.docs": "Documentation",
+  "hero.title": "Build multilingual apps faster",
+  "hero.subtitle": "Ship translations with confidence using AI-powered localization",
+  "hero.cta": "Get Started",
+  "hero.cta.secondary": "View Demo",
+  "features.title": "Why choose us",
+  "features.speed": "Lightning fast delivery",
+  "features.speed.description": "Translations delivered via global CDN in under 50ms",
+  "features.ai": "AI-powered translations",
+  "features.ai.description": "Context-aware translations with glossary support",
+  "features.sync": "GitHub sync",
+  "features.sync.description": "Auto-import keys and ship translations as pull requests",
+  "footer.copyright": "© 2026 Demo App. All rights reserved.",
+  "footer.privacy": "Privacy Policy",
+  "footer.terms": "Terms of Service"
+}

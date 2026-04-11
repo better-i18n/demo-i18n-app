@@ -1,0 +1,11 @@
+{
+  "dashboard.title": "Dashboard",
+  "dashboard.welcome": "Welcome back, {{name}}!",
+  "dashboard.stats.projects": "Active Projects",
+  "dashboard.stats.translations": "Total Translations",
+  "dashboard.stats.coverage": "Translation Coverage",
+  "dashboard.stats.languages": "Languages",
+  "dashboard.recent": "Recent Activity",
+  "dashboard.empty": "No recent activity",
+  "dashboard.create": "Create your first project"
+}
