@@ -1,0 +1,7 @@
+{
+  "title": "Dashboard",
+  "welcome": "Welcome back, {{name}}!",
+  "recent": "Recent Activity",
+  "empty": "No recent activity",
+  "create": "Create your first project"
+}
