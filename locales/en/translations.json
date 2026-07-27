@@ -1,0 +1,40 @@
+{
+  "null": {
+    "Hidden": "Hidden",
+    "Hidden-deleted-1781090641268": "Hidden",
+    "Hidden-deleted-1781090825809": "Hidden",
+    "common-deleted-1781090641268": "common"
+  },
+  "cli.e2e": {
+    "test1": "E2E Test",
+    "test2": "Another test"
+  },
+  "cli.test": {
+    "hello": "Hello from CLI",
+    "world": "World"
+  },
+  "checkout": {
+    "confirm.title": "confirm.title",
+    "confirm.title-deleted-1781090641268": "confirm.title",
+    "confirm.title-deleted-1781090825809": "confirm.title"
+  },
+  "common": {
+    "Cancel order": "Cancel order",
+    "Cancel order-deleted-1781090641268": "common.Cancel order",
+    "Cancel order-deleted-1781090825809": "Cancel order",
+    "time.minutesAgo": "time.minutesAgo",
+    "time.minutesAgo-deleted-1781090641268": "time.minutesAgo",
+    "time.minutesAgo-deleted-1781090825809": "time.minutesAgo"
+  },
+  "hero": {
+    "desc": "hello world",
+    "title": "hello world"
+  },
+  "npm": {
+    "smoke.note": "smoke.note"
+  },
+  "release": {
+    "Publish now": "Publish now",
+    "smoke.title": "smoke.title"
+  }
+}
